@@ -43,9 +43,13 @@ myPython/
 ## 🚀 Future plan
 
 I will continue to add more interesting projects and experiments, such as:
+
 ✅ Interactive calculator program
+
 ✅ Simple automation bot
+
 ✅ Analyze data with Pandas
+
 ✅ AI Experiments with TensorFlow
 
 ## 💬 Let's discuss!
