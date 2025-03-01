@@ -1,4 +1,4 @@
-# 🐍 MyPython - adventures with python!
+# 🐍 MyPython - Adventures with python!
 
 "ternyata python itu bukan ular. kenapa sih hal kecil kayak gini saja harus bohong"
 
