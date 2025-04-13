@@ -1,5 +1,8 @@
 # Dicoding Submissions 🧠
 
+[![Sertifikat Dicoding](/Dicoding/Image/sertifikat_course_page-0001.jpg)](https://www.dicoding.com/certificates/L4PQEJWJ2PO1)
+
+
 Repositori ini berisi kumpulan hasil **kuis coding** dan **test** selama mengikuti program **Dicoding Bangun Negeri Batch 8**.
 
 ## 📚 Tentang Program
