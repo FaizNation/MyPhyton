@@ -1,6 +1,3 @@
-
-
-
 def success(dedication, persistence, passion):
     dedication += 1 # dedicate yourself
     persistence += 1 # be persistence
