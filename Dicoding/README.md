@@ -10,6 +10,9 @@ Program **Bangun Negeri Batch 8** adalah beasiswa dari Dicoding yang bertujuan m
 
 ## 🗂️ Struktur Folder
 
+- 📂 `Image`
+  Berisi E-sertifikat saya.
+  
 - 📂 `Kuis Coding`  
   Berisi hasil pengerjaan kuis dari berbagai modul di platform Dicoding.
 
